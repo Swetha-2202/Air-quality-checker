@@ -40,5 +40,6 @@ Potentiometer rotation represents change in air quality.
 - OLED shows live values
 - Serial Monitor logs sensor readings
 
-## Author
-ESP32 Air Quality Monitoring Project
+Author
+
+Swetha
